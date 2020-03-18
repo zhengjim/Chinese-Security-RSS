@@ -36,7 +36,7 @@
 | Vulnspy博客 | http://blog.vulnspy.com/ | https://blog.vulnspy.com/atom.xml |
 | whynot博客 | https://notwhy.github.io/#blog | https://notwhy.github.io/feed.xml |
 | xxlegend 博客 | http://xxlegend.com/ | http://xxlegend.com/atom.xml |
-| zerokeeper博客 | http://zerokeeper.com/atom.xml | https://zerokeeper.com/atom.xml |
+| zerokeeper博客 | https://zerokeeper.com/ | https://zerokeeper.com/atom.xml |
 | 离别歌  (Phithon的博客) | https://www.leavesongs.com/ |  https://www.leavesongs.com/rss.php |
 | 独自等待-信息安全博客 | https://www.waitalone.cn/ | https://www.waitalone.cn/feed#from:www.waitalone.cn |
 | zhchbin博客 | http://zhchbin.github.io/ | http://zhchbin.github.io/atom.xml |
