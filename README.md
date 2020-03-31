@@ -6,6 +6,8 @@
 
 2020-03-18更新：加入[2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)上有RSS地址的博客。如有问题，联系修改！
 
+2020-03-31更新：添加opml文件，便于批量导入。
+
 ## 安全资讯
 
 
