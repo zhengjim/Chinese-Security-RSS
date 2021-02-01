@@ -8,6 +8,8 @@
 
 2020-03-31更新：添加opml文件，便于批量导入。
 
+2021-02-01更新：删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中国、网络安全)的博客。
+
 ## 安全资讯
 
 
@@ -24,7 +26,21 @@
 | 知道创宇 | http://blog.knownsec.com/ | http://blog.knownsec.com/feed/ |
 |先知技术社区| https://xz.aliyun.com/| https://xz.aliyun.com/feed |
 |信息安全知识库| http://vipread.com| http://vipread.com/feed |
-
+| 美团技术团队 | https://tech.meituan.com/feed/ | https://rsshub.app/meituan/tech/home |
+| HackerNews | http://hackernews.cc | http://hackernews.cc/feed |
+| CCERT | http://www.ccert.edu.cn | http://www.ccert.edu.cn/feed |
+| Sec HotSpot | https://sec.thief.one/ | https://sec.thief.one/atom.xml |
+| 华为安全通告 | https://www.huawei.com/cn/rss-feeds/psirt/rss | https://www.huawei.com/cn/rss-feeds/psirt/rss |
+| 安全牛 | https://www.aqniu.com | https://www.aqniu.com/feed |
+| 腾讯科恩实验室官方博客 | http://keenlab.tencent.com/ | https://keenlab.tencent.com/zh/atom.xml |
+| Noah Lab - 360 | http://noahblog.360.cn/ | http://noahblog.360.cn/rss/ |
+| 天融信阿尔法实验室 | http://blog.topsec.com.cn | http://blog.topsec.com.cn/feed/ |
+| 网络安全攻防研究室(91ri) | http://www.91ri.org | http://www.91ri.org/feed |
+| 360 Netlab Blog - 360 | https://blog.netlab.360.com/ | https://blog.netlab.360.com/rss/ |
+| 斗象能力中心 - 网藤风险感知 | https://blog.riskivy.com | https://blog.riskivy.com/feed/ |
+| 腾讯安全响应中心 | http://security.tencent.com | https://security.tencent.com/index.php/feed/blog/0 |
+| Seebug漏洞社区 | https://www.seebug.org/rss/new | https://www.seebug.org/rss/new/ |
+| 体验盒子 | https://www.uedbox.com | https://www.uedbox.com/feed/ |
 
 ## 个人博客
 
@@ -143,3 +159,121 @@
 |童话| https://tonghuaroot.com/| https://tonghuaroot.com/atom.xml |
 |B1ain| http://www.blain.top/| http://www.blain.top/rss.php |
 |Vicen| https://www.cnblogs.com/P201521440001/| https://www.cnblogs.com/P201521440001/rss |
+| 酷壳 - CoolShell.cn | https://coolshell.cn | https://coolshell.cn/feed |
+| 小扬Shaun | https://shaunyoung.cn/ | https://shaunyoung.cn/feed/ |
+| zifangsky的个人博客 | https://www.zifangsky.cn | https://www.zifangsky.cn/feed |
+| Sukka's Blog | https://blog.skk.moe/ | https://blog.skk.moe/atom.xml |
+| obaby@mars | http://www.h4ck.org.cn | http://www.h4ck.org.cn/feed/ |
+| Your Hacking Tutorial by Zempirians | https://www.reddit.com/r/HowToHack/ | http://www.reddit.com/r/HowToHack/.rss |
+| Solidot | https://www.solidot.org | https://www.solidot.org/index.rss |
+| Cyber Security | https://www.reddit.com/r/cyber_security/ | https://www.reddit.com/r/cyber_security/.rss |
+| Cyber Attacks, Cyber Crime and Cyber Security | https://www.reddit.com/r/cyb3rs3c/ | https://www.reddit.com/r/cyb3rs3c/.rss |
+| Flanker Sky | https://blog.flanker017.me | http://blog.flanker017.me/feed/?lang=zh-cn |
+| Misty的小窝~ | http://misty.moe | http://misty.moe/feed/ |
+| 记事本 | http://rk700.github.io/ | http://rk700.github.io/feed.xml |
+| xd_xd's blog | http://xdxd.love/ | http://xdxd.love/atom.xml |
+| 氷 菓 | https://dangokyo.me | https://dangokyo.me/feed/ |
+| Swing'Blog 有恨无人省 | https://bestwing.me/ | https://bestwing.me/atom.xml |
+| Mike Dos Zhang | https://mikedoszhang.blogspot.com/ | https://mikedoszhang.blogspot.com/feeds/posts/default |
+| MS509 Team - Mission Studio | http://www.ms509.com/ | https://node2.feed43.com/3621608176276825.xml |
+| 2019's blog | https://mem2019.github.io/ | https://mem2019.github.io/feed.xml |
+| 裤衩哥的小屋 | http://www.8sec.cc/ | http://8sec.cc/index.php/feed/ |
+| 安全小飞侠的窝 | http://avfisher.win | http://avfisher.win/feed |
+| 灯塔实验室 | http://plcscan.org/blog | http://plcscan.org/blog/feed/ |
+| Evi1oX | https://04z.net/ | https://04z.net/index.xml |
+| IceSword Lab | https://www.iceswordlab.com | https://www.iceswordlab.com/atom.xml |
+| Woojay's Blog | https://blog.blankshell.com | https://blog.blankshell.com/feed/ |
+| loecho | https://1oecho.github.io | https://loecho.me/atom.xml |
+| 不忘初心 方得始终 | http://terenceli.github.io | https://terenceli.github.io/atom.xml |
+| 倾旋的博客 | https://payloads.online | https://payloads.online/feed.xml |
+| Hackfun  | https://hackfun.org/ | https://hackfun.org/atom.xml |
+| Hack Inn | https://www.hackinn.com/ | https://www.hackinn.com/index.php/feed/ |
+| RcoIl的窝 | https://rcoil.me/ | https://rcoil.me/atom.xml |
+| AVL Team | http://blog.avlsec.com | http://blog.avlsec.com/feed/ |
+| Retme的未来道具研究所 | http://retme.net/ | http://retme.net/index.php/feed/ |
+| Poacher's Blog | http://www.bugsafe.cn/ | http://www.bugsafe.cn/feed/ |
+| 4ch12dy | https://4ch12dy.github.io.git/ | http://4ch12dy.site/atom.xml |
+| NULL PWNED | http://www.nul.pw/ | http://www.nul.pw/feed/ |
+| Trustlook | https://blog.trustlook.com/ | https://blog.trustlook.com/rss/ |
+| 莿鸟栖草堂 | https://www.cnxct.com | https://www.cnxct.com/feed/ |
+| Green_m's blog | https://green-m.github.io/ | https://green-m.me/feed.xml |
+| 阿小信的博客 | http://axiaoxin.com | http://axiaoxin.com/feeds/ |
+| Li4n0's NoteBook | http://0n0.fun/ | http://0n0.fun/index.xml |
+| Ex个人博客 | http://blog.eonew.cn | http://blog.eonew.cn/feed |
+| VeroFess的代码站 | http://blog.binklac.com/ | http://blog.binklac.com/atom.xml |
+| Medici.Yan's Blog | http://blog.evalbug.com/ | http://blog.evalbug.com/atom.xml |
+| Panda - 专注于网络空间安全研究 | https://www.cnpanda.net/ | http://blog.cnpanda.net/feed/atom/ |
+| 中二的wilson | http://blog.wils0n.cn/ | http://blog.wils0n.cn/feed/ |
+| BlackWolf | http://blackwolfsec.cc/ | http://blackwolfsec.cc/atom.xml |
+| ADog'blog-信息安全博客 | http://foreversong.cn | http://foreversong.cn/feed |
+| Akkuman Blog | http://hacktech.cn/ | http://hacktech.cn/atom.xml |
+| R3start | http://r3start.net | http://r3start.net/index.php/feed |
+| ::TEAM L:: | http://l-team.org/ | http://l-team.org/feed/ |
+| Ruilin | http://rui0.cn | http://rui0.cn/feed |
+| Neurohazard | http://wp.blkstone.me | http://wp.blkstone.me/feed/ |
+| 梧桐雨blog | http://wutongyu.info | http://wutongyu.info/feed/ |
+| pirogue | http://pirogue.org/ | http://pirogue.org/atom.xml |
+| 李三的剑谱 | http://redteam.today/ | http://redteam.today/atom.xml |
+| bsmali4的小窝 | http://www.codersec.net/ | http://www.codersec.net/feed.xml |
+| 乐枕的家 - 随笔 | https://www.cdxy.me | http://www.cdxy.me/feed |
+| Leesec's Blog | http://www.leesec.com | http://www.leesec.com/feed |
+| 李劼杰的博客 | http://www.lijiejie.com | http://www.lijiejie.com/feed/ |
+| XSS - Cross Site Scripting | https://www.reddit.com/r/xss/ | http://www.reddit.com/r/xss/.rss |
+| WeaponX's Blog | http://weaponx.site/ | http://weaponx.site/atom.xml |
+| 郁离歌丶的博客 | http://yulige.top | http://yulige.top/?feed=rss2 |
+| 岚光 | https://0x0d.im/ | https://0x0d.im/feed/ |
+| todaro's blog | http://b.cp0.win/ | https://b.cp0.win/feed.xml |
+| 咲夜南梦's 博客 | https://196011564.github.io/ | https://196011564.github.io/atom.xml |
+| Donot | http://www.cnblogs.com/donot/ | https://blog.donot.me/rss/ |
+| zhengjim | https://www.cnblogs.com/zhengjim | https://www.cnblogs.com/zhengjim/rss |
+| 空之回响’s Blog | https://blog.rainbutterfly.xyz | https://blog.rainbutterfly.xyz/feed/ |
+| 码中春秋's Blog | https://blog.taielab.com/ | https://blog.taielab.com/index.xml |
+| 黑海洋 | https://blog.upx8.com/ | https://blog.upx8.com/feed |
+| Whwlsfb's Tech Blog | https://blog.wanghw.cn | https://blog.wanghw.cn/feed |
+| klkx | https://caijiji.github.io/ | https://caijiji.github.io/atom.xml |
+| Posts on 青鸟的博客 | https://blue-bird1.github.io/posts/ | https://blue-bird1.github.io/posts/index.xml |
+| evoA's Blog | https://evoa.me/ | https://evoa.me/feed/ |
+| Blog of f1sh | https://f1sh.site | https://f1sh.site/feed/ |
+| 安全介（FEEI） | https://feei.cn | https://feei.cn/feed/ |
+| 90Sec  - 专注于网络空间安全 | https://forum.90sec.com/latest | https://forum.90sec.com/latest.rss |
+| Chen's Blog | https://gh0st.cn | https://gh0st.cn/feed.xml |
+| Holmesian Blog | https://holmesian.org/ | https://holmesian.org/feed |
+| 贫民窟的艺术家 | https://joychou.org/ | https://joychou.org/feed/ |
+| K4YT3X | https://k4yt3x.com/ | https://k4yt3x.com/index.xml |
+| jianfen's blog | https://jianfensec.com/ | https://jianfensec.com/atom.xml |
+| LandGrey's Blog Posts | https://landgrey.me/ | https://landgrey.me/feed/ |
+| K8哥哥’s Blog | http://k8gege.org/ | https://k8gege.org/atom.xml |
+| Somnus's blog | https://Foxgrin.github.io/ | https://foxgrin.github.io/atom.xml |
+| Les1ie | https://iansmith123.github.io/ | https://les1ie.com/feed.xml |
+| 专注APT攻击与防御 | https://micropoor.blogspot.com/ | https://micropoor.blogspot.com/feeds/posts/default?alt=rss |
+| AnonySec'Blog | https://payloads.cn/ | https://payloads.cn/atom.xml |
+| 饭先生's Room | http://fanxs-t.github.io/ | https://sec.mrfan.xyz/atom.xml |
+| Wh0ale's Blog | https://wh0ale.github.io/ | https://wh0ale.github.io/atom.xml |
+| virusdefender’s blog (＾－＾)V | https://strcpy.me/ | https://strcpy.me/feed/ |
+| 安全志 | https://t0data.github.io/ | https://t0data.github.io/feed.xml |
+| berTrAM's Blog | https://www.bertramc.cn/ | https://www.bertramc.cn/feed/ |
+| DarkRay's BLoG.! | https://www.blackh4t.org/ | https://www.blackh4t.org/atom.xml |
+| 遗忘's Blog | https://www.ccctf.cn/ | https://www.ccctf.cn/index.php/feed/ |
+| CE安全网 | https://www.cesafe.com | https://www.cesafe.com/feed/ |
+| 勿忘初心 - Ch1ng's Blog | https://www.ch1ng.com/blog/ | https://www.ch1ng.com/blog/feed/ |
+| Black-Hole's Blog | https://www.bugs.cc/ | https://www.bugs.cc/index.xml |
+| Uknow's blog | https://uknowsec.cn/ | https://uknowsec.cn/atom.xml |
+| ChaBug安全 | https://www.chabug.org | https://www.chabug.org/feed |
+| Echocipher | https://www.echocipher.life/ | https://www.echocipher.life/index.php/feed/ |
+| Hi! I'm L4ttIc3 | https://www.heavensec.org/ | https://www.heavensec.org/feed/ |
+| Sky's自留地 | https://www.javaweb.org.cn/ | https://www.javaweb.org.cn/feed |
+| 风雪之隅(鸟哥) | https://www.laruence.com | https://www.laruence.com/feed |
+| LeadroyaL's website | https://www.leadroyal.cn | https://www.leadroyal.cn/?feed=rss2 |
+| 随风'S Blog | https://www.iswin.org/ | https://www.iswin.org/atom.xml |
+| LSABLOG | https://www.lsablog.com | https://www.lsablog.com/feed/ |
+| 垃圾桶 | https://lz1y.github.io/ | https://www.lz1y.cn/atom.xml |
+| giantbranch's blog | https://www.giantbranch.cn/ | https://www.giantbranch.cn/atom.xml |
+| Sooooooooooooooooooo,Skr!~ | https://websecuritys.cn/ | https://www.websecuritys.cn/feed/ |
+| 杨龙 | https://www.yanglong.pro | https://www.yanglong.pro/feed/ |
+| dieyushi Blog | https://www.zzsec.org | https://www.zzsec.org/atom.xml |
+| 小晨曦 | http://xcxmiku.com/ | https://xcxmiku.com/atom.xml |
+| 小草窝博客 | https://x.hacking8.com/ | https://x.hacking8.com/rss.php |
+| yzddMr6's Blog | https://yzddmr6.tk/ | https://yzddmr6.tk/atom.xml |
+| BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
+| Mi1k7ea | https://www.mi1k7ea.com/ | https://www.mi1k7ea.com/atom.xml |
+| boogle's blog | https://zhengbao.wang/ | https://zhengbao.wang/atom.xml |
