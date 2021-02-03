@@ -552,9 +552,9 @@
                  xmlUrl="https://www.mi1k7ea.com/atom.xml" htmlUrl="https://www.mi1k7ea.com/"/>
         <outline text="boogle'sblog" title="boogle'sblog" type="rss"
                  xmlUrl="https://zhengbao.wang/atom.xml" htmlUrl="https://zhengbao.wang/"/>
-        <outline text=" y1ng " title=" y1ng " type="rss"
-                 xmlUrl=" https://y1ng.org/atom.xml " htmlUrl=" https://y1ng.org/ "/>
-        <outline text=" ming " title=" ming " type="rss"
-                 xmlUrl=" https://trex-tbag.github.io/feed.xml " htmlUrl=" https://trex-tbag.github.io/ "/>
+        <outline text="y1ng" title="y1ng" type="rss"
+                 xmlUrl="https://y1ng.org/atom.xml" htmlUrl="https://y1ng.org/"/>
+        <outline text="ming" title="ming" type="rss"
+                 xmlUrl="https://trex-tbag.github.io/feed.xml" htmlUrl="https://trex-tbag.github.io/"/>
     </body>
 </opml>
