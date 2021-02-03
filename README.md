@@ -277,3 +277,5 @@
 | BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
 | Mi1k7ea | https://www.mi1k7ea.com/ | https://www.mi1k7ea.com/atom.xml |
 | boogle's blog | https://zhengbao.wang/ | https://zhengbao.wang/atom.xml |
+| y1ng | https://y1ng.org/ | https://y1ng.org/atom.xml |
+| ming | https://trex-tbag.github.io/ | https://trex-tbag.github.io/feed.xml |
