@@ -279,3 +279,9 @@
 | boogle's blog | https://zhengbao.wang/ | https://zhengbao.wang/atom.xml |
 | y1ng | https://y1ng.org/ | https://y1ng.org/atom.xml |
 | ming | https://trex-tbag.github.io/ | https://trex-tbag.github.io/feed.xml |
+
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/timwhitez/Doge-XSS-Phishing.svg)](https://starchart.cc/timwhitez/Doge-XSS-Phishing)
