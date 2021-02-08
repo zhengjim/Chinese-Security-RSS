@@ -284,4 +284,4 @@
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/timwhitez/Doge-XSS-Phishing.svg)](https://starchart.cc/timwhitez/Doge-XSS-Phishing)
+[![Stargazers over time](https://starchart.cc/zhengjim/Chinese-Security-RSS.svg)](https://starchart.cc/zhengjim/Chinese-Security-RSS)
