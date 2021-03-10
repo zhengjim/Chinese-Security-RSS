@@ -8,14 +8,16 @@
 
 2020-03-31更新：添加opml文件，便于批量导入。
 
-2021-02-01更新：删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中国、网络安全)的博客。
+2021-02-01更新：删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中文、网络安全)的博客。
+
+2021-03-10更新：删除部分失效，部分2018年以前就不更新的博客。并新增符合条件(中文、网络安全)博客。
 
 ## 安全资讯
 
 
 | 名称 | 网站 | RSS地址 |
 | ------ | ------ | ------ |
-|FreeBuf互联网安全新媒体平台	|https://www.freebuf.com/	|https://www.freebuf.com/feed	|
+| FreeBuf互联网安全新媒体平台 | https://www.freebuf.com/ |https://www.freebuf.com/feed	|
 | 安全客 | https://www.anquanke.com/ | https://api.anquanke.com/data/v1/rss |
 | Seebug Paper | https://paper.seebug.org/ | https://paper.seebug.org/rss/ |
 | 绿盟 | http://blog.nsfocus.net/ | http://blog.nsfocus.net/feed/ |
@@ -41,6 +43,9 @@
 | 腾讯安全响应中心 | http://security.tencent.com | https://security.tencent.com/index.php/feed/blog/0 |
 | Seebug漏洞社区 | https://www.seebug.org/rss/new | https://www.seebug.org/rss/new/ |
 | 体验盒子 | https://www.uedbox.com | https://www.uedbox.com/feed/ |
+| NOSEC 安全讯息平台 - 漏洞预警 | https://nosec.org/home/index/hole.html | https://rsshub.app/nosec/hole |
+| 阿里云公告 | https://help.aliyun.com/noticelist/9213612.html | https://rsshub.app/aliyun/notice/2 |
+| 安全脉搏 | https://www.secpulse.com | https://www.secpulse.com/feed |
 
 ## 个人博客
 
@@ -128,7 +133,7 @@
 |legend| http://www.legendsec.org/| http://www.legendsec.org/feed |
 |Sariel.D| https://blog.sari3l.com/| https://blog.sari3l.com/atom.xml |
 |Hone| http://hone.cool/| http://hone.cool/atom.xml |
-|tr1ple(Wfzsec)| https://www.cnblogs.com/wfzWebSecuity/| https://www.cnblogs.com/wfzWebSecuity/rss/ |
+|tr1ple(Wfzsec)| https://www.cnblogs.com/tr1ple/ | https://feed.cnblogs.com/blog/u/316934/rss/ |
 |Mang0| http://mang0.me/| http://mang0.me/atom.xml |
 |Nuuu Nya| https://notes.getshell.net/| https://notes.getshell.net/feed/ |
 |cL0und| http://redteam.today/| https://cl0und.github.io/atom.xml |
@@ -141,7 +146,6 @@
 |Hpdoger| https://hpdoger.cn| https://hpdoger.cn/atom.xml |
 |H4lo| https://www.cnblogs.com/H4lo| https://www.cnblogs.com/H4lo/rss/ |
 |独自等待| https://www.waitalone.cn/| https://www.waitalone.cn/feed |
-|iceH| http://www.secice.cn/| http://www.secice.cn/atom.xml |
 |raycp| https://ray-cp.github.io/| https://ray-cp.github.io/feed.xml |
 |小生很忙| https://chaoge123456.github.io/| https://chaoge123456.github.io/rss2.xml |
 |Litten Fisher austfish| http://austfish.cn/| http://austfish.cn/atom.xml |
@@ -164,10 +168,7 @@
 | zifangsky的个人博客 | https://www.zifangsky.cn | https://www.zifangsky.cn/feed |
 | Sukka's Blog | https://blog.skk.moe/ | https://blog.skk.moe/atom.xml |
 | obaby@mars | http://www.h4ck.org.cn | http://www.h4ck.org.cn/feed/ |
-| Your Hacking Tutorial by Zempirians | https://www.reddit.com/r/HowToHack/ | http://www.reddit.com/r/HowToHack/.rss |
 | Solidot | https://www.solidot.org | https://www.solidot.org/index.rss |
-| Cyber Security | https://www.reddit.com/r/cyber_security/ | https://www.reddit.com/r/cyber_security/.rss |
-| Cyber Attacks, Cyber Crime and Cyber Security | https://www.reddit.com/r/cyb3rs3c/ | https://www.reddit.com/r/cyb3rs3c/.rss |
 | Flanker Sky | https://blog.flanker017.me | http://blog.flanker017.me/feed/?lang=zh-cn |
 | Misty的小窝~ | http://misty.moe | http://misty.moe/feed/ |
 | 记事本 | http://rk700.github.io/ | http://rk700.github.io/feed.xml |
@@ -177,7 +178,6 @@
 | Mike Dos Zhang | https://mikedoszhang.blogspot.com/ | https://mikedoszhang.blogspot.com/feeds/posts/default |
 | MS509 Team - Mission Studio | http://www.ms509.com/ | https://node2.feed43.com/3621608176276825.xml |
 | 2019's blog | https://mem2019.github.io/ | https://mem2019.github.io/feed.xml |
-| 裤衩哥的小屋 | http://www.8sec.cc/ | http://8sec.cc/index.php/feed/ |
 | 安全小飞侠的窝 | http://avfisher.win | http://avfisher.win/feed |
 | 灯塔实验室 | http://plcscan.org/blog | http://plcscan.org/blog/feed/ |
 | Evi1oX | https://04z.net/ | https://04z.net/index.xml |
@@ -218,7 +218,6 @@
 | 乐枕的家 - 随笔 | https://www.cdxy.me | http://www.cdxy.me/feed |
 | Leesec's Blog | http://www.leesec.com | http://www.leesec.com/feed |
 | 李劼杰的博客 | http://www.lijiejie.com | http://www.lijiejie.com/feed/ |
-| XSS - Cross Site Scripting | https://www.reddit.com/r/xss/ | http://www.reddit.com/r/xss/.rss |
 | WeaponX's Blog | http://weaponx.site/ | http://weaponx.site/atom.xml |
 | 郁离歌丶的博客 | http://yulige.top | http://yulige.top/?feed=rss2 |
 | 岚光 | https://0x0d.im/ | https://0x0d.im/feed/ |
@@ -234,7 +233,6 @@
 | Posts on 青鸟的博客 | https://blue-bird1.github.io/posts/ | https://blue-bird1.github.io/posts/index.xml |
 | evoA's Blog | https://evoa.me/ | https://evoa.me/feed/ |
 | Blog of f1sh | https://f1sh.site | https://f1sh.site/feed/ |
-| 安全介（FEEI） | https://feei.cn | https://feei.cn/feed/ |
 | 90Sec  - 专注于网络空间安全 | https://forum.90sec.com/latest | https://forum.90sec.com/latest.rss |
 | Chen's Blog | https://gh0st.cn | https://gh0st.cn/feed.xml |
 | Holmesian Blog | https://holmesian.org/ | https://holmesian.org/feed |
@@ -279,8 +277,17 @@
 | boogle's blog | https://zhengbao.wang/ | https://zhengbao.wang/atom.xml |
 | y1ng | https://y1ng.org/ | https://y1ng.org/atom.xml |
 | ming | https://trex-tbag.github.io/ | https://trex-tbag.github.io/feed.xml |
-
-
+| Proteas的专栏 | https://blog.csdn.net/Proteas | http://blog.csdn.net/Proteas/rss/list |
+| 傲慢的上校的专栏 | https://blog.csdn.net/aomandeshangxiao | http://blog.csdn.net/aomandeshangxiao/rss/list |
+| 博客园_人怜直节生来瘦，自许高材老更刚。 | https://www.cnblogs.com/goodhacker | http://feed.cnblogs.com/blog/u/85404/rss/ |
+| 能哥的专栏 | https://blog.csdn.net/CWangChao | http://blog.csdn.net/nengx/rss/list |
+| 小刀志 | https://xiaodaozhi.com/ | https://xiaodaozhi.com/feed/ |
+| 博客园_挖洞的土拨鼠 | https://www.cnblogs.com/KevinGeorge/ | http://feed.cnblogs.com/blog/u/319092/rss |
+| 博客园_luoyesiqiu | https://www.cnblogs.com/luoyesiqiu/ | http://feed.cnblogs.com/blog/u/449248/rss/ |
+| Exploit的小站~ | https://blog.csdn.net/u011721501 | https://blog.csdn.net/u011721501/rss/list |
+| 博客园_Afant1 | https://www.cnblogs.com/afanti | http://feed.cnblogs.com/blog/u/401056/rss/ |
+| 博客园_Sevck's Blog | https://www.cnblogs.com/sevck | http://feed.cnblogs.com/blog/u/227407/rss |
+| 博客园_知彼知己，百战不殆 | http://www.cnblogs.com/r00tgrok | https://feed.cnblogs.com/blog/u/153647/rss/ |
 
 ## Stargazers over time
 
