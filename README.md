@@ -32,7 +32,7 @@
 | HackerNews | http://hackernews.cc | http://hackernews.cc/feed |
 | CCERT | http://www.ccert.edu.cn | http://www.ccert.edu.cn/feed |
 | Sec HotSpot | https://sec.thief.one/ | https://sec.thief.one/atom.xml |
-| 华为安全通告 | https://www.huawei.com/cn/rss-feeds/psirt/rss | https://www.huawei.com/cn/rss-feeds/psirt/rss |
+| 华为安全通告 | https://www.huawei.com/cn/rss-feeds/psirt | https://www.huawei.com/cn/rss-feeds/psirt/rss |
 | 安全牛 | https://www.aqniu.com | https://www.aqniu.com/feed |
 | 腾讯科恩实验室官方博客 | http://keenlab.tencent.com/ | https://keenlab.tencent.com/zh/atom.xml |
 | Noah Lab - 360 | http://noahblog.360.cn/ | http://noahblog.360.cn/rss/ |
