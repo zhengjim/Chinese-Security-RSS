@@ -61,7 +61,6 @@
 | whynot博客 | https://notwhy.github.io/#blog | https://notwhy.github.io/feed.xml |
 | zerokeeper博客 | https://zerokeeper.com/ | https://zerokeeper.com/atom.xml |
 | 离别歌  (Phithon的博客) | https://www.leavesongs.com/ |  https://www.leavesongs.com/rss.php |
-| 独自等待-信息安全博客 | https://www.waitalone.cn/ | https://www.waitalone.cn/feed#from:www.waitalone.cn |
 | zhchbin博客 | http://zhchbin.github.io/ | http://zhchbin.github.io/atom.xml |
 | 阿德马Web安全 | http://www.nxadmin.com/ | http://www.nxadmin.com/feed |
 |Chu| http://sh3ll.me/| http://sh3ll.me/atom.xml |
@@ -141,7 +140,7 @@
 |Brucetg| https://brucetg.github.io/| https://brucetg.github.io/atom.xml |
 |Hpdoger| https://hpdoger.cn| https://hpdoger.cn/atom.xml |
 |H4lo| https://www.cnblogs.com/H4lo| https://www.cnblogs.com/H4lo/rss/ |
-|独自等待| https://www.waitalone.cn/| https://www.waitalone.cn/feed |
+|独自等待-信息安全博客| https://www.waitalone.cn/| https://www.waitalone.cn/feed |
 |raycp| https://ray-cp.github.io/| https://ray-cp.github.io/feed.xml |
 |小生很忙| https://chaoge123456.github.io/| https://chaoge123456.github.io/rss2.xml |
 |Litten Fisher austfish| http://austfish.cn/| http://austfish.cn/atom.xml |

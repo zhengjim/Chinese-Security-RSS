@@ -80,8 +80,6 @@
                     xmlUrl=" https://zerokeeper.com/atom.xml " htmlUrl=" https://zerokeeper.com/ "/>
         <outline text=" 离别歌  (Phithon的博客) " title=" 离别歌  (Phithon的博客) " type="rss"
                     xmlUrl="  https://www.leavesongs.com/rss.php " htmlUrl=" https://www.leavesongs.com/ "/>
-        <outline text=" 独自等待-信息安全博客 " title=" 独自等待-信息安全博客 " type="rss"
-                    xmlUrl=" https://www.waitalone.cn/feed#from:www.waitalone.cn " htmlUrl=" https://www.waitalone.cn/ "/>
         <outline text=" zhchbin博客 " title=" zhchbin博客 " type="rss"
                     xmlUrl=" http://zhchbin.github.io/atom.xml " htmlUrl=" http://zhchbin.github.io/ "/>
         <outline text=" 阿德马Web安全 " title=" 阿德马Web安全 " type="rss"
