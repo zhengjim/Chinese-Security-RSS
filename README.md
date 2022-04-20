@@ -18,6 +18,8 @@
 
 2022-04-19更新：删除部分失效，解决导入失败问题，并加入[安全公众号](https://wechat2rss.xlab.app/posts/list)上的RSS。
 
+2022-04-20更新：删除不是安全类的公众号，感谢[@ttttmr](https://github.com/ttttmr)整理分享。
+
 ## 安全资讯
 
 | 名称 | 网站 | RSS地址 |
@@ -292,7 +294,6 @@
 | 道哥的黑板报 | https://wechat2rss.xlab.app/feed/980128c3a0c9ff852a06dd4a2bc3391338e05760.xml |
 | 腾讯安全应急响应中心 | https://wechat2rss.xlab.app/feed/7898375f78fd1018302d54577cd0fd05d5ed324f.xml |
 | EnjoyHacking | https://wechat2rss.xlab.app/feed/257bba53d8f6b6485ac41c0f8cd6fdb0f52840b5.xml |
-| 腾讯技术工程 | https://wechat2rss.xlab.app/feed/9685937b45fe9c7a526dbc32e4f24ba879a65b9a.xml |
 | 互联网安全与创业 | https://wechat2rss.xlab.app/feed/4ef3bd392bcda3fe411f1a341669e9b0ef946dab.xml |
 | 安全小飞侠 | https://wechat2rss.xlab.app/feed/869b4e387a017fdd76a56b965ee0ab22c2a52dc2.xml |
 | 酒仙桥六号部队 | https://wechat2rss.xlab.app/feed/164eeaeb12a8d95384d8807f41d3572569296029.xml |
@@ -312,7 +313,6 @@
 | 闻道解惑 | https://wechat2rss.xlab.app/feed/f2035369bae011cc72f020f8ba009ea2dfdf0355.xml |
 | 关注安全技术 | https://wechat2rss.xlab.app/feed/2f38aa5ec9e067b1d02196f5a50665f8ec23a4e4.xml |
 | 记月 | https://wechat2rss.xlab.app/feed/21f7777ea1da950d1a49edffa59ef75ddbed8684.xml |
-| 老高的互联网杂谈 | https://wechat2rss.xlab.app/feed/574587b13c6f60617fc74605702258ddf4aefac6.xml |
 | 漕河泾小黑屋 | https://wechat2rss.xlab.app/feed/f38c9a9f230e19f49918faefc5d0d0fc71e52d29.xml |
 | 安全分析与研究 | https://wechat2rss.xlab.app/feed/62ba31603ffe26b5a8eca9ddaa434ea612445c10.xml |
 | 微步在线研究响应中心 | https://wechat2rss.xlab.app/feed/ac64c385ebcdb17fee8df733eb620a22b979928c.xml |
@@ -333,7 +333,6 @@
 | 全频带阻塞干扰 | https://wechat2rss.xlab.app/feed/d2b0dc03acc579a8a9c7aa45bf1f531ed5563f59.xml |
 | xray社区 | https://wechat2rss.xlab.app/feed/19e49fc43c29d227aed74edba9830e7e1c71161e.xml |
 | 学蚁致用 | https://wechat2rss.xlab.app/feed/60eb4e7d17f9ac498bb307fa863e9fe4cec6fa1d.xml |
-| 爱奇艺技术产品团队 | https://wechat2rss.xlab.app/feed/16a4ec12a83a52e1f6e941bce030a4d64ee26c47.xml |
 | 农夫安全团队 | https://wechat2rss.xlab.app/feed/ea9b226a78afac0166bb9bdee7de836766441073.xml |
 | 皮相 | https://wechat2rss.xlab.app/feed/41a459a80e37e15d9706465eee48ff491911a36f.xml |
 | vivo千镜安全实验室 | https://wechat2rss.xlab.app/feed/6f07fe5af57e7a13c75b12bd0718840bdf4dc3f2.xml |
@@ -348,7 +347,6 @@
 | 丁爸情报分析师的工具箱 | https://wechat2rss.xlab.app/feed/4fad165589ac854de97e576a6dbcfbd8b9f75320.xml |
 | 君哥的体历 | https://wechat2rss.xlab.app/feed/947b46dba9754e10360d267a5ee9a87597e0bafe.xml |
 | 暗影安全 | https://wechat2rss.xlab.app/feed/44dc3cfe1a58cd4c818178052cbca34c5f9b336d.xml |
-| 未闻Code | https://wechat2rss.xlab.app/feed/a148ed0a542de4be305ffa1b93e8663ad252e22c.xml |
 | 绿盟科技金融事业部 | https://wechat2rss.xlab.app/feed/0628f5f1764e0d79813846e7706daef229f464a7.xml |
 | 腾讯安全智能 | https://wechat2rss.xlab.app/feed/88c9f7cfba0f4f60415eedf32cc5958b131c7065.xml |
 | 奇安信ATEAM | https://wechat2rss.xlab.app/feed/7e9f1ce42f56754f4a6bacb9a67385e48ca643fb.xml |
@@ -371,7 +369,6 @@
 | n1nty | https://wechat2rss.xlab.app/feed/48215981e3bd81ce5f1739196cddf14b59835193.xml |
 | 黑奇士 | https://wechat2rss.xlab.app/feed/47cf1260cf37d1de55b263afbf47e6cb6cae7d29.xml |
 | 腾讯安全威胁情报中心 | https://wechat2rss.xlab.app/feed/034265b14906a59ef7cf1fcbd56699b54a696094.xml |
-| 小米技术 | https://wechat2rss.xlab.app/feed/20bc9c3251b3c4f73d3b53aa1f1ab853d05d4cbc.xml |
 | 安恒信息安全研究院 | https://wechat2rss.xlab.app/feed/a54132c52ec3e562fc896bf803a7fe0aa277bab7.xml |
 | RedTeaming | https://wechat2rss.xlab.app/feed/e4a8e7ce5182a107ed90452e8738155534dd297a.xml |
 | 梦之光芒的电子梦 | https://wechat2rss.xlab.app/feed/e83f8149ea130c384bb4cb8d690b33bd392ce1b6.xml |
