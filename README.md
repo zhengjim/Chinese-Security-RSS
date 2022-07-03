@@ -20,6 +20,8 @@
 
 2022-04-20更新：删除不是安全类的公众号，感谢[@ttttmr](https://github.com/ttttmr)整理分享。
 
+2022-07-03更新：删除部分失效，并新增符合条件(中文、网络安全)博客。
+
 ## 安全资讯
 
 | 名称 | 网站 | RSS地址 |
@@ -50,7 +52,6 @@
 | NOSEC 安全讯息平台 - 漏洞预警 | https://nosec.org/home/index/hole.html | https://rsshub.app/nosec/hole |
 | 阿里云公告 | https://help.aliyun.com/noticelist/9213612.html | https://rsshub.app/aliyun/notice/2 |
 | 安全脉搏 | https://www.secpulse.com | https://www.secpulse.com/feed |
-| Sec-News 安全文摘 | https://wiki.ioin.in | https://wiki.ioin.in/atom |
 | 跳跳糖 - 安全与分享社区 | https://tttang.com | https://tttang.com/rss.xml |
 | 奇安信A-TEAM技术博客 | https://blog.ateam.qianxin.com | https://blog.ateam.qianxin.com/atom.xml |
 | 清华大学·网络与信息安全实验室 (NISL) | https://netsec.ccert.edu.cn/chs | https://netsec.ccert.edu.cn/feed.xml |
@@ -73,7 +74,6 @@
 | quininer | https://quininer.github.io | https://quininer.github.io/rss.xml |
 | TuuuNya(王松_striker) | https://www.hackersb.cn | https://www.hackersb.cn/atom.xml |
 | JISEC | https://www.jisec.com | https://www.jisec.com/feed |
-| phantom0301(零の杂货铺) | http://phantom0301.cc | http://phantom0301.cc/atom.xml |
 | 0h1in9e | https://www.ohlinge.cn | https://www.ohlinge.cn/feed |
 | Tr3jer_CongRong(从容) | https://www.thinkings.org | https://www.thinkings.org/feed.xml |
 | l3m0n | https://www.cnblogs.com/iamstudy | https://www.cnblogs.com/iamstudy/rss |
@@ -115,7 +115,6 @@
 | shell-storm | http://shell-storm.org | http://shell-storm.org/rss.xml |
 | 浮萍 | https://fuping.site | https://fuping.site/atom.xml |
 | Muuu  Nya | https://lvm.me | https://lvm.me/index.xml |
-| icecolor | http://wiattack.net | http://wiattack.net/index.php/feed |
 | Sakura | http://eternalsakura13.com | http://eternalsakura13.com/atom.xml |
 | R4v3zn | https://www.r4v3zn.com | https://www.r4v3zn.com/atom.xml |
 | 羊小弟 | https://www.cnblogs.com/yangxiaodi | https://www.cnblogs.com/yangxiaodi/rss |
@@ -202,7 +201,6 @@
 | 李劼杰的博客 | http://www.lijiejie.com | http://www.lijiejie.com/feed |
 | 岚光 | https://0x0d.im | https://0x0d.im/feed |
 | todaro's blog | http://b.cp0.win | https://b.cp0.win/feed.xml |
-| 咲夜南梦's 博客 | https://196011564.github.io | https://196011564.github.io/atom.xml |
 | Donot | http://www.cnblogs.com/donot | https://blog.donot.me/rss |
 | zhengjim | https://www.cnblogs.com/zhengjim | https://www.cnblogs.com/zhengjim/rss |
 | 空之回响’s Blog | https://blog.rainbutterfly.xyz | https://blog.rainbutterfly.xyz/feed |
@@ -239,7 +237,6 @@
 | giantbranch's blog | https://www.giantbranch.cn | https://www.giantbranch.cn/atom.xml |
 | 杨龙 | https://www.yanglong.pro | https://www.yanglong.pro/feed |
 | dieyushi Blog | https://www.zzsec.org | https://www.zzsec.org/atom.xml |
-| 小晨曦 | http://xcxmiku.com | https://xcxmiku.com/atom.xml |
 | 小草窝博客 | https://x.hacking8.com | https://x.hacking8.com/rss.php |
 | BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
 | Mi1k7ea | https://www.mi1k7ea.com | https://www.mi1k7ea.com/atom.xml |
@@ -264,7 +261,7 @@
 | 4ra1n | https://4ra1n.love | https://4ra1n.love/atom.xml |
 | ARTHURCHIAO'S BLOG | http://arthurchiao.art | http://arthurchiao.art/feed.xml |
 | admin-神风 | https://www.cnblogs.com/wh4am1 | http://feed.cnblogs.com/blog/u/340041/rss |
-| nice0e3 | https://www.cnblogs.com/nice0e3 | http://www.cnblogs.com/nice0e3 |
+| nice0e3 | https://www.cnblogs.com/nice0e3 | https://feed.cnblogs.com/blog/u/592290/rss |
 | yanghaoi's blog | https://yanghaoi.github.io | https://yanghaoi.github.io/atom.xml |
 | 博客园_飘渺红尘 | https://www.cnblogs.com/piaomiaohongchen | http://feed.cnblogs.com/blog/u/326112/rss |
 | glzjin 赵 | https://www.zhaoj.in | https://www.zhaoj.in/feed |
@@ -281,6 +278,15 @@
 | EtherDream's Blog | https://www.cnblogs.com/index-html | https://feed.cnblogs.com/blog/u/83633/rss |
 | LFYSEC | https://lfysec.top | https://lfysec.top/atom.xml |
 | LoRexxar's Blog | https://lorexxar.cn | https://lorexxar.cn/atom.xml |
+| 不安全 | https://buaq.net | https://buaq.net/rss.xml |
+| CatBro's Blog | https://catbro666.github.io | https://catbro666.github.io/atom.xml |
+| TRY博客 | https://www.nctry.com | https://www.nctry.com/feed |
+| 0e0w | https://0e0w.com | https://0e0w.com/feed.xml |
+| Tr0y's Blog | https://www.tr0y.wang/atom.xml | https://www.tr0y.wang/atom.xml |
+| f0ng | https://f0ng.github.io | https://f0ng.github.io/atom.xml |
+| HhhM | https://redmango.top | https://www.redmango.top/rss |
+| 明天的乌云 | https://blog.xlab.app/atom.xml | https://blog.xlab.app/atom.xml |
+| darkless | https://darkless.cn/atom.xml | https://darkless.cn/atom.xml |
 
 ## 公众号
 
@@ -560,5 +566,7 @@
 | 楼兰学习网络安全 | https://wechat2rss.xlab.app/feed/6f8d8640d6c8d59ba52ea8a8b5df8529a59e872a.xml |
 
 ## Stargazers over time
+
+[![Top Langs](https://profile-counter.glitch.me/zhengjim/count.svg)](https://www.zhengjim.com)
 
 [![Stargazers over time](https://starchart.cc/zhengjim/Chinese-Security-RSS.svg)](https://starchart.cc/zhengjim/Chinese-Security-RSS)
