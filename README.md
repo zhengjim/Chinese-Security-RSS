@@ -22,6 +22,8 @@
 
 2022-07-03更新：删除部分失效，并新增符合条件(中文、网络安全)博客。
 
+2022-07-14更新：新增安全公众号、删除部分不为安全类的公众号。感谢[@ttttmr](https://wechat2rss.xlab.app/opml/sec.opml)整理分享。
+
 ## 安全资讯
 
 | 名称 | 网站 | RSS地址 |
@@ -472,10 +474,8 @@
 | 网安寻路人 | https://wechat2rss.xlab.app/feed/d93b4641ef7b9ab5bb7a2d41d799544d45ace291.xml |
 | 安恒威胁情报中心 | https://wechat2rss.xlab.app/feed/de09ec267e5c4545e0a759cc62c3da7866ea49e0.xml |
 | PeckShield | https://wechat2rss.xlab.app/feed/d180634ccb9dccfe000b1cfbb843522811b49172.xml |
-| 虚拟框架 | https://wechat2rss.xlab.app/feed/c0f0ee37039f7da55ed6ed4ae160d11af1915007.xml |
 | 谛听ditecting | https://wechat2rss.xlab.app/feed/e91ca0416d5a5dfc93ce14c0598416d4df1a3bf2.xml |
 | 数据安全与取证 | https://wechat2rss.xlab.app/feed/8c9b7e3366ca88442203715d5616c05d24d0306c.xml |
-| 浅黑科技 | https://wechat2rss.xlab.app/feed/6111a6d5ecf28cfdd4fc9b664244c05ddacef15c.xml |
 | 专注安管平台 | https://wechat2rss.xlab.app/feed/1a525e06c123c345dae49c4992df35964b8c4d53.xml |
 | NOVASEC | https://wechat2rss.xlab.app/feed/74ce3507f54a7a5145a4ddd6e4e3407fd76705b5.xml |
 | MS509 | https://wechat2rss.xlab.app/feed/55d7dabccad3e569e3c9fc2a14a07dd86d7b6666.xml |
@@ -520,41 +520,24 @@
 | 嘶吼专业版 | https://wechat2rss.xlab.app/feed/d351be711510e0b7ccbcb275cdfab5c4c7e3e839.xml |
 | Rapid7 | https://wechat2rss.xlab.app/feed/0060dbbf4244fc99ca332d9aa76acfe89ba7b415.xml |
 | 深信服千里目安全实验室 | https://wechat2rss.xlab.app/feed/027c7f3b98d9d0f2db84513f0cb94f02e9a8a3d7.xml |
-| 觉学社 | https://wechat2rss.xlab.app/feed/238759eb3e9d042d4e1ef515cfc3686c977c6ddd.xml |
 | 凌晨一点零三分 | https://wechat2rss.xlab.app/feed/02330475f466041c89e4db3abdf4ce9b1311a6cb.xml |
 | 默安玄甲实验室 | https://wechat2rss.xlab.app/feed/181cb187893448582b37198afeadd4c4cf0750a9.xml |
 | 安全行者老霍 | https://wechat2rss.xlab.app/feed/82cb8f76f8e4d0ca29f497944330ef57aa1f22db.xml |
 | 娜璋AI安全之家 | https://wechat2rss.xlab.app/feed/ac86a71f04b6d10cc5a87ec9ecc8c94fff5d80d1.xml |
 | 赛博回忆录 | https://wechat2rss.xlab.app/feed/b2fd128a6c259f160f380ffe90c17ce05bdc780f.xml |
 | Yak Project | https://wechat2rss.xlab.app/feed/1800f529b600474a4cd0434c65654c483739e192.xml |
-| 小众软件 | https://wechat2rss.xlab.app/feed/3261d5a75cfef238650a2cabd4bbf99669c2f334.xml |
-| 关注米柚更新 | https://wechat2rss.xlab.app/feed/7391226cbd6ce8793e1e3d7d76b096bca336c571.xml |
-| 海边的西赛罗 | https://wechat2rss.xlab.app/feed/5e25483b324ae2d39510555465b12a2b2dfa4000.xml |
 | 分类乐色桶 | https://wechat2rss.xlab.app/feed/5978638470af63bf67edad170b4e8e9eb945b948.xml |
 | 乐枕迭代日志 | https://wechat2rss.xlab.app/feed/91295bd6da13eb5cd50a544a9d3df76f6f863fac.xml |
 | Moonlight Bug Hunter | https://wechat2rss.xlab.app/feed/ce1158cdf6e3de068710ceb93a3961618f7e4360.xml |
 | 网安国际 | https://wechat2rss.xlab.app/feed/6fa942a9bdf8d6e67cf9b051ed3fae441ddb2bae.xml |
-| 先生制造 | https://wechat2rss.xlab.app/feed/313326d41db4f54b1cc09e7c986a5ac4e5f88ca0.xml |
 | b1ngz的笔记本 | https://wechat2rss.xlab.app/feed/985deae60a431c56b6d8b4a8f7e5623a6b7dd948.xml |
-| 长赢指数投资 | https://wechat2rss.xlab.app/feed/1f35edb36dfda13906f958fc3047e59ce9c234fe.xml |
 | 且听安全 | https://wechat2rss.xlab.app/feed/88ffe63b5cffb34f8096461bdeaea02049987c70.xml |
 | 跳动的计算器 | https://wechat2rss.xlab.app/feed/f3ace422519a0db0d5848415f0ad2e36ecf2c069.xml |
-| 小火箭 | https://wechat2rss.xlab.app/feed/ebbf3f8891e7d70626c75dca7b92dd6c075663d5.xml |
-| 卢瑟经济学之安生杂谈 | https://wechat2rss.xlab.app/feed/810c7b56b5341b3767e54b8648dc972c6b1f4fe9.xml |
-| 邱贞玮 | https://wechat2rss.xlab.app/feed/6451f06f5dffd44946bbdc407cf9605396f83437.xml |
-| 方方的航空小筑 | https://wechat2rss.xlab.app/feed/b146ee0c6a719d7d3d86c93f4fdd4ca27b91baa2.xml |
-| 大水来 | https://wechat2rss.xlab.app/feed/1cd29c6df63ddc61880618cf57ed7198aa3c76d3.xml |
 | 白日放歌须纵9 | https://wechat2rss.xlab.app/feed/fbb786b3c5d138ed27a7ca2f9734cfc90e9b9417.xml |
 | 零鉴科技 | https://wechat2rss.xlab.app/feed/f7f4ab7bdc8c827727561bd14ed6c26ad0624a6f.xml |
-| 落日间 | https://wechat2rss.xlab.app/feed/9c4b3d62a24fdf1863421984ad23e0c63e317614.xml |
-| Delphi研习社 | https://wechat2rss.xlab.app/feed/d37a196db182852e509df92cdd89030481a2fa96.xml |
 | 青藤技术服务 | https://wechat2rss.xlab.app/feed/1063f6d607a637eb0ddc129b58bd081820dd31cb.xml |
 | 天问记事簿 | https://wechat2rss.xlab.app/feed/a6b4c4531776fa4f4e837ca1fd56e5acd1df8f54.xml |
-| 寒雁Talk | https://wechat2rss.xlab.app/feed/bbbe847b63f498801792fb7a08d67d0fbf167a04.xml |
-| 逻辑与现实经济 | https://wechat2rss.xlab.app/feed/07cd3971227a35b5c35cd94d1961790dad9a87c7.xml |
 | 技术猫屋 | https://wechat2rss.xlab.app/feed/c48bba56bd4329af4db5c7b0eacf3d2f1c43c8df.xml |
-| 哔哩哔哩技术 | https://wechat2rss.xlab.app/feed/434235d4815fdb8447ff3127fc053ceb8b3aada6.xml |
-| 从零开始定投日记 | https://wechat2rss.xlab.app/feed/0d2c5982deb01d2295ecf8f4891c9cb75d8d8ba3.xml |
 | LoRexxar自留地 | https://wechat2rss.xlab.app/feed/629b8dab22be680d1ae8b1b0e597043a7d0757b7.xml |
 | 毕方安全实验室 | https://wechat2rss.xlab.app/feed/e30371f4b2e600a87cb0718d649d6c43411622b3.xml |
 | 天玄安全实验室 | https://wechat2rss.xlab.app/feed/6756212c81a850d9ee50d69cb4036b6a6f70f31b.xml |
@@ -562,8 +545,13 @@
 | 王小明的事 | https://wechat2rss.xlab.app/feed/4d5625268306f53fca5c6e8cb59daf73ca57d5e0.xml |
 | Beacon Tower Lab | https://wechat2rss.xlab.app/feed/63453a813df919bb2cf5419e6aed91bf0fea5fa7.xml |
 | RainSec | https://wechat2rss.xlab.app/feed/086e8d1d0035fb4418b3c2608f7166353e0628dc.xml |
-| 辉哥奇谭 | https://wechat2rss.xlab.app/feed/1b01bd297483509251779f1a02bb90223786a923.xml |
 | 楼兰学习网络安全 | https://wechat2rss.xlab.app/feed/6f8d8640d6c8d59ba52ea8a8b5df8529a59e872a.xml |
+| f undefined | https://wechat2rss.xlab.app/feed/5f1bca42a3e1bc932b1e2609abad8c36d9ad37e1.xml |
+| RASP安全技术 | https://wechat2rss.xlab.app/feed/697d59809497086c9137cc5b21feed775c3455a5.xml |
+| 俗世吧 | https://wechat2rss.xlab.app/feed/892464522627f503ae525d1df3c2690bca98b424.xml |
+| 天书奇坛TFT | https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml |
+| 7bits安全团队 | https://wechat2rss.xlab.app/feed/d8600777ce9d3efc16ac3cc3885aba6f107bc10b.xml |
+| 头像哥老草 | https://wechat2rss.xlab.app/feed/9ab5d73a93405f75a182b073fcc04e22f24b412d.xml |
 
 ## Stargazers over time
 
