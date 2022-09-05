@@ -24,6 +24,8 @@
 
 2022-07-14更新：新增安全公众号、删除部分不为安全类的公众号。感谢[@ttttmr](https://wechat2rss.xlab.app/opml/sec.opml)整理分享。
 
+2022-09-05更新：删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。
+
 ## 安全资讯
 
 | 名称 | 网站 | RSS地址 |
@@ -70,7 +72,6 @@
 | whynot博客 | https://notwhy.github.io/#blog | https://notwhy.github.io/feed.xml |
 | 离别歌  (Phithon的博客) | https://www.leavesongs.com | https://www.leavesongs.com/rss.php |
 | zhchbin博客 | http://zhchbin.github.io | http://zhchbin.github.io/atom.xml |
-| 阿德马Web安全 | http://www.nxadmin.com | http://www.nxadmin.com/feed |
 | Chu | http://sh3ll.me | http://sh3ll.me/atom.xml |
 | Klaus | http://klaus.link/articles | http://klaus.link/atom.xml |
 | quininer | https://quininer.github.io | https://quininer.github.io/rss.xml |
@@ -85,7 +86,6 @@
 | Tomato(Tom4t0) | https://bl4ck.in | https://bl4ck.in/feed.xml |
 | Wins0n | https://programlife.net | https://programlife.net/atom.xml |
 | Netfairy(网络精灵) | http://www.netfairy.net | http://www.netfairy.net/rss.php |
-| cobbr | https://cobbr.io | https://cobbr.io/feed.xml |
 | Yaseng | https://yaseng.org | https://yaseng.org/rss.xml |
 | backlion | http://www.backlion.org | https://www.cnblogs.com/backlion/rss |
 | 杀死比特 | https://www.cnblogs.com/killbit | https://www.cnblogs.com/killbit/rss |
@@ -146,7 +146,6 @@
 | 独自等待-信息安全博客 | https://www.waitalone.cn | https://www.waitalone.cn/feed |
 | raycp | https://ray-cp.github.io | https://ray-cp.github.io/feed.xml |
 | 小生很忙 | https://chaoge123456.github.io | https://chaoge123456.github.io/rss2.xml |
-| Litten Fisher austfish | http://austfish.cn | http://austfish.cn/atom.xml |
 | Jayl1n | https://jayl1n.github.io | https://jayl1n.github.io/atom.xml |
 | Firmy | https://firmianay.github.io | https://firmianay.github.io/feed.xml |
 | E99p1ant | https://github.red | https://github.red/feed |
@@ -179,14 +178,12 @@
 | Hackfun | https://hackfun.org | https://hackfun.org/atom.xml |
 | Hack Inn | http://www.hackinn.com | http://www.hackinn.com/index.php/feed |
 | RcoIl的窝 | https://rcoil.me | https://rcoil.me/atom.xml |
-| AVL Team | http://blog.avlsec.com | http://blog.avlsec.com/feed |
 | Poacher's Blog | http://www.bugsafe.cn | http://www.bugsafe.cn/feed |
 | 4ch12dy | https://4ch12dy.github.io.git | http://4ch12dy.site/atom.xml |
 | NULL PWNED | http://www.nul.pw | http://www.nul.pw/feed |
 | Trustlook | https://blog.trustlook.com | https://blog.trustlook.com/rss |
 | 莿鸟栖草堂 | https://www.cnxct.com | https://www.cnxct.com/feed |
 | Green_m's blog | https://green-m.github.io | https://green-m.me/feed.xml |
-| 阿小信的博客 | http://axiaoxin.com | http://axiaoxin.com/feeds |
 | Li4n0's NoteBook | http://0n0.fun | http://0n0.fun/index.xml |
 | VeroFess的代码站 | http://blog.binklac.com | http://blog.binklac.com/atom.xml |
 | Medici.Yan's Blog | http://blog.evalbug.com | http://blog.evalbug.com/atom.xml |
@@ -241,7 +238,6 @@
 | dieyushi Blog | https://www.zzsec.org | https://www.zzsec.org/atom.xml |
 | 小草窝博客 | https://x.hacking8.com | https://x.hacking8.com/rss.php |
 | BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
-| Mi1k7ea | https://www.mi1k7ea.com | https://www.mi1k7ea.com/atom.xml |
 | boogle's blog | https://zhengbao.wang | https://zhengbao.wang/atom.xml |
 | y1ng | https://y1ng.org | https://y1ng.org/atom.xml |
 | ming | https://trex-tbag.github.io | https://trex-tbag.github.io/feed.xml |
@@ -552,6 +548,13 @@
 | 天书奇坛TFT | https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml |
 | 7bits安全团队 | https://wechat2rss.xlab.app/feed/d8600777ce9d3efc16ac3cc3885aba6f107bc10b.xml |
 | 头像哥老草 | https://wechat2rss.xlab.app/feed/9ab5d73a93405f75a182b073fcc04e22f24b412d.xml |
+| bluE0x00 | https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml |
+| 夏虫知冰 | https://wechat2rss.xlab.app/feed/6f5a7b292b4b0232ccf1c8e2b7819b98dcdb173a.xml |
+| 安全小黄鸭 | https://wechat2rss.xlab.app/feed/15824aba690f6db2a4922191b262ed22a3b8bec1.xml |
+| 甲方安全建设 | https://wechat2rss.xlab.app/feed/130f6c9e835ca7f7c9f329a93140129499970662.xml |
+| 朴实无华lake2 | https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml |
+| 钱塘门外的互联网散修 | https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml |
+| 鸟哥谈安全 | https://wechat2rss.xlab.app/feed/564971d18e4771aa4494c8b930dc912b04e6743d.xml |
 
 ## Stargazers over time
 

@@ -41,7 +41,6 @@
        <outline text="whynot博客" title="whynot博客" type="rss" xmlUrl="https://notwhy.github.io/feed.xml" htmlUrl="https://notwhy.github.io/#blog"/>
        <outline text="离别歌  (Phithon的博客)" title="离别歌  (Phithon的博客)" type="rss" xmlUrl="https://www.leavesongs.com/rss.php" htmlUrl="https://www.leavesongs.com"/>
        <outline text="zhchbin博客" title="zhchbin博客" type="rss" xmlUrl="http://zhchbin.github.io/atom.xml" htmlUrl="http://zhchbin.github.io"/>
-       <outline text="阿德马Web安全" title="阿德马Web安全" type="rss" xmlUrl="http://www.nxadmin.com/feed" htmlUrl="http://www.nxadmin.com"/>
        <outline text="Chu" title="Chu" type="rss" xmlUrl="http://sh3ll.me/atom.xml" htmlUrl="http://sh3ll.me"/>
        <outline text="Klaus" title="Klaus" type="rss" xmlUrl="http://klaus.link/atom.xml" htmlUrl="http://klaus.link/articles"/>
        <outline text="quininer" title="quininer" type="rss" xmlUrl="https://quininer.github.io/rss.xml" htmlUrl="https://quininer.github.io"/>
@@ -56,7 +55,6 @@
        <outline text="Tomato(Tom4t0)" title="Tomato(Tom4t0)" type="rss" xmlUrl="https://bl4ck.in/feed.xml" htmlUrl="https://bl4ck.in"/>
        <outline text="Wins0n" title="Wins0n" type="rss" xmlUrl="https://programlife.net/atom.xml" htmlUrl="https://programlife.net"/>
        <outline text="Netfairy(网络精灵)" title="Netfairy(网络精灵)" type="rss" xmlUrl="http://www.netfairy.net/rss.php" htmlUrl="http://www.netfairy.net"/>
-       <outline text="cobbr" title="cobbr" type="rss" xmlUrl="https://cobbr.io/feed.xml" htmlUrl="https://cobbr.io"/>
        <outline text="Yaseng" title="Yaseng" type="rss" xmlUrl="https://yaseng.org/rss.xml" htmlUrl="https://yaseng.org"/>
        <outline text="backlion" title="backlion" type="rss" xmlUrl="https://www.cnblogs.com/backlion/rss" htmlUrl="http://www.backlion.org"/>
        <outline text="杀死比特" title="杀死比特" type="rss" xmlUrl="https://www.cnblogs.com/killbit/rss" htmlUrl="https://www.cnblogs.com/killbit"/>
@@ -117,7 +115,6 @@
        <outline text="独自等待-信息安全博客" title="独自等待-信息安全博客" type="rss" xmlUrl="https://www.waitalone.cn/feed" htmlUrl="https://www.waitalone.cn"/>
        <outline text="raycp" title="raycp" type="rss" xmlUrl="https://ray-cp.github.io/feed.xml" htmlUrl="https://ray-cp.github.io"/>
        <outline text="小生很忙" title="小生很忙" type="rss" xmlUrl="https://chaoge123456.github.io/rss2.xml" htmlUrl="https://chaoge123456.github.io"/>
-       <outline text="Litten Fisher austfish" title="Litten Fisher austfish" type="rss" xmlUrl="http://austfish.cn/atom.xml" htmlUrl="http://austfish.cn"/>
        <outline text="Jayl1n" title="Jayl1n" type="rss" xmlUrl="https://jayl1n.github.io/atom.xml" htmlUrl="https://jayl1n.github.io"/>
        <outline text="Firmy" title="Firmy" type="rss" xmlUrl="https://firmianay.github.io/feed.xml" htmlUrl="https://firmianay.github.io"/>
        <outline text="E99p1ant" title="E99p1ant" type="rss" xmlUrl="https://github.red/feed" htmlUrl="https://github.red"/>
@@ -150,14 +147,12 @@
        <outline text="Hackfun" title="Hackfun" type="rss" xmlUrl="https://hackfun.org/atom.xml" htmlUrl="https://hackfun.org"/>
        <outline text="Hack Inn" title="Hack Inn" type="rss" xmlUrl="http://www.hackinn.com/index.php/feed" htmlUrl="http://www.hackinn.com"/>
        <outline text="RcoIl的窝" title="RcoIl的窝" type="rss" xmlUrl="https://rcoil.me/atom.xml" htmlUrl="https://rcoil.me"/>
-       <outline text="AVL Team" title="AVL Team" type="rss" xmlUrl="http://blog.avlsec.com/feed" htmlUrl="http://blog.avlsec.com"/>
        <outline text="Poacher's Blog" title="Poacher's Blog" type="rss" xmlUrl="http://www.bugsafe.cn/feed" htmlUrl="http://www.bugsafe.cn"/>
        <outline text="4ch12dy" title="4ch12dy" type="rss" xmlUrl="http://4ch12dy.site/atom.xml" htmlUrl="https://4ch12dy.github.io.git"/>
        <outline text="NULL PWNED" title="NULL PWNED" type="rss" xmlUrl="http://www.nul.pw/feed" htmlUrl="http://www.nul.pw"/>
        <outline text="Trustlook" title="Trustlook" type="rss" xmlUrl="https://blog.trustlook.com/rss" htmlUrl="https://blog.trustlook.com"/>
        <outline text="莿鸟栖草堂" title="莿鸟栖草堂" type="rss" xmlUrl="https://www.cnxct.com/feed" htmlUrl="https://www.cnxct.com"/>
        <outline text="Green_m's blog" title="Green_m's blog" type="rss" xmlUrl="https://green-m.me/feed.xml" htmlUrl="https://green-m.github.io"/>
-       <outline text="阿小信的博客" title="阿小信的博客" type="rss" xmlUrl="http://axiaoxin.com/feeds" htmlUrl="http://axiaoxin.com"/>
        <outline text="Li4n0's NoteBook" title="Li4n0's NoteBook" type="rss" xmlUrl="http://0n0.fun/index.xml" htmlUrl="http://0n0.fun"/>
        <outline text="VeroFess的代码站" title="VeroFess的代码站" type="rss" xmlUrl="http://blog.binklac.com/atom.xml" htmlUrl="http://blog.binklac.com"/>
        <outline text="Medici.Yan's Blog" title="Medici.Yan's Blog" type="rss" xmlUrl="http://blog.evalbug.com/atom.xml" htmlUrl="http://blog.evalbug.com"/>
@@ -212,7 +207,6 @@
        <outline text="dieyushi Blog" title="dieyushi Blog" type="rss" xmlUrl="https://www.zzsec.org/atom.xml" htmlUrl="https://www.zzsec.org"/>
        <outline text="小草窝博客" title="小草窝博客" type="rss" xmlUrl="https://x.hacking8.com/rss.php" htmlUrl="https://x.hacking8.com"/>
        <outline text="BaCde's Blog" title="BaCde's Blog" type="rss" xmlUrl="https://bacde.me/atom.xml" htmlUrl="https://bacde.me"/>
-       <outline text="Mi1k7ea" title="Mi1k7ea" type="rss" xmlUrl="https://www.mi1k7ea.com/atom.xml" htmlUrl="https://www.mi1k7ea.com"/>
        <outline text="boogle's blog" title="boogle's blog" type="rss" xmlUrl="https://zhengbao.wang/atom.xml" htmlUrl="https://zhengbao.wang"/>
        <outline text="y1ng" title="y1ng" type="rss" xmlUrl="https://y1ng.org/atom.xml" htmlUrl="https://y1ng.org"/>
        <outline text="ming" title="ming" type="rss" xmlUrl="https://trex-tbag.github.io/feed.xml" htmlUrl="https://trex-tbag.github.io"/>
@@ -518,5 +512,12 @@
        <outline text="天书奇坛TFT" title="天书奇坛TFT" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml" htmlUrl="https://wechat2rss.xlab.app/feed/53682fed50f2e9f3be9c8f58329e6022ef2fd201.xml"/>
        <outline text="7bits安全团队" title="7bits安全团队" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/d8600777ce9d3efc16ac3cc3885aba6f107bc10b.xml" htmlUrl="https://wechat2rss.xlab.app/feed/d8600777ce9d3efc16ac3cc3885aba6f107bc10b.xml"/>
        <outline text="头像哥老草" title="头像哥老草" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/9ab5d73a93405f75a182b073fcc04e22f24b412d.xml" htmlUrl="https://wechat2rss.xlab.app/feed/9ab5d73a93405f75a182b073fcc04e22f24b412d.xml"/>
+       <outline text="bluE0x00" title="bluE0x00" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml" htmlUrl="https://wechat2rss.xlab.app/feed/9767c848d0a4d5858d8bb565bc762dde94eeeee1.xml"/>
+       <outline text="夏虫知冰" title="夏虫知冰" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/6f5a7b292b4b0232ccf1c8e2b7819b98dcdb173a.xml" htmlUrl="https://wechat2rss.xlab.app/feed/6f5a7b292b4b0232ccf1c8e2b7819b98dcdb173a.xml"/>
+       <outline text="安全小黄鸭" title="安全小黄鸭" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/15824aba690f6db2a4922191b262ed22a3b8bec1.xml" htmlUrl="https://wechat2rss.xlab.app/feed/15824aba690f6db2a4922191b262ed22a3b8bec1.xml"/>
+       <outline text="甲方安全建设" title="甲方安全建设" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/130f6c9e835ca7f7c9f329a93140129499970662.xml" htmlUrl="https://wechat2rss.xlab.app/feed/130f6c9e835ca7f7c9f329a93140129499970662.xml"/>
+       <outline text="朴实无华lake2" title="朴实无华lake2" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml" htmlUrl="https://wechat2rss.xlab.app/feed/d452e14a90682f0ce670dcce1a041f56593260fc.xml"/>
+       <outline text="钱塘门外的互联网散修" title="钱塘门外的互联网散修" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml" htmlUrl="https://wechat2rss.xlab.app/feed/bf791d6a822e8f48b4f6aa056e42758479362281.xml"/>
+       <outline text="鸟哥谈安全" title="鸟哥谈安全" type="rss" xmlUrl="https://wechat2rss.xlab.app/feed/564971d18e4771aa4494c8b930dc912b04e6743d.xml" htmlUrl="https://wechat2rss.xlab.app/feed/564971d18e4771aa4494c8b930dc912b04e6743d.xml"/>
     </body>
 </opml>
