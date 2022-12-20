@@ -4,9 +4,11 @@
 
 ## 中文安全RSS
 
-增加小程序(开源)，便于查看。但还很简陋，有需要的师傅可以扫描使用。
-
+增加小程序(开源)，便于查看。更新了UI，有需要的师傅可以扫描使用。
 ![](./img/wxamp.png)
+
+主页截图：
+<img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/index.png" width = "300" height = "450" alt="" align=center />
 
 ------
 
