@@ -9,7 +9,8 @@
 ![](./img/wxamp.png)
 
 主页截图：
-<img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/index.png" width = "300" height = "450" alt="" align=center />
+
+<img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/index.png" width="300" alt="" align=center />
 
 ------
 
