@@ -42,6 +42,8 @@
 
 2023-03-04更新：删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。
 
+2023-06-19更新：删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。
+
 ## 安全资讯
 
 | 名称 | 网站 | RSS地址 |
@@ -69,7 +71,6 @@
 | Seebug漏洞社区 | https://www.seebug.org/rss/new | https://www.seebug.org/rss/new |
 | 体验盒子 | https://www.uedbox.com | https://www.uedbox.com/feed |
 | NOSEC 安全讯息平台 - 漏洞预警 | https://nosec.org/home/index/hole.html | https://rsshub.app/nosec/hole |
-| 阿里云公告 | https://help.aliyun.com/noticelist/9213612.html | https://rsshub.app/aliyun/notice/2 |
 | 安全脉搏 | https://www.secpulse.com | https://www.secpulse.com/feed |
 | 跳跳糖 - 安全与分享社区 | https://tttang.com | https://tttang.com/rss.xml |
 | 奇安信A-TEAM技术博客 | https://blog.ateam.qianxin.com | https://blog.ateam.qianxin.com/atom.xml |
@@ -97,7 +98,6 @@
 | Magic_Zero | https://www.cnblogs.com/magic-zero | http://feed.cnblogs.com/blog/u/266362/rss |
 | Gorgias | https://gorgias.me | https://gorgias.me/atom.xml |
 | 薇拉vera(左左薇拉) | https://www.zuozuovera.com | https://www.zuozuovera.com/feed |
-| Tomato(Tom4t0) | https://bl4ck.in | https://bl4ck.in/feed.xml |
 | Wins0n | https://programlife.net | https://programlife.net/atom.xml |
 | Netfairy(网络精灵) | http://www.netfairy.net | http://www.netfairy.net/rss.php |
 | Yaseng | https://yaseng.org | https://yaseng.org/rss.xml |
@@ -116,24 +116,20 @@
 | Syclover Security Team | http://blog.sycsec.com | http://blog.sycsec.com/atom.xml |
 | Bendawang | http://www.bendawang.site | http://www.bendawang.site/rss.xml |
 | Wupco | http://www.wupco.cn | http://www.wupco.cn/?feed=rss2 |
-| rickgray | http://rickgray.me | http://rickgray.me/atom.xml |
 | K0rz3n | https://www.k0rz3n.com | https://www.k0rz3n.com/atom.xml |
 | Balis0ng | https://balis0ng.com | https://balis0ng.com/feed |
 | Misaki | https://misakikata.github.io | https://misakikata.github.io/atom.xml |
 | Hcamael | https://nobb.site | https://nobb.site/rss.xml |
 | Coco413 | https://www.coco413.com | https://www.coco413.com/feed |
-| cdxy | https://www.cdxy.me | https://feed43.com/cdxy-home.xml |
 | 廖新喜 | http://xxlegend.com | http://xxlegend.com/atom.xml |
 | Hurricane618(风之栖息地) | http://hurricane618.me | http://hurricane618.me/atom.xml |
 | LittleHann | https://www.cnblogs.com/LittleHann | https://www.cnblogs.com/LittleHann/rss |
 | Evi1cg | https://evi1cg.me | https://evi1cg.me/atom.xml |
 | 浮萍 | https://fuping.site | https://fuping.site/atom.xml |
-| Muuu  Nya | https://lvm.me | https://lvm.me/index.xml |
 | Sakura | http://eternalsakura13.com | http://eternalsakura13.com/atom.xml |
 | R4v3zn | https://www.r4v3zn.com | https://www.r4v3zn.com/atom.xml |
 | 羊小弟 | https://www.cnblogs.com/yangxiaodi | https://www.cnblogs.com/yangxiaodi/rss |
 | 国光 | https://www.sqlsec.com | https://www.sqlsec.com/atom.xml |
-| V0W | http://v0w.top | http://v0w.top/atom.xml |
 | 我是小三 | https://www.cnblogs.com/2014asm | https://www.cnblogs.com/2014asm/rss |
 | Cytosine | https://cyto.top | https://cyto.top/atom.xml |
 | xmsec(陌小生) | https://www.xmsec.cc | https://www.xmsec.cc/rss |
@@ -193,7 +189,6 @@
 | Medici.Yan's Blog | http://blog.evalbug.com | http://blog.evalbug.com/atom.xml |
 | Panda - 专注于网络空间安全研究 | https://www.cnpanda.net | http://blog.cnpanda.net/feed/atom |
 | BlackWolf | http://blackwolfsec.cc | http://blackwolfsec.cc/atom.xml |
-| Akkuman Blog | http://hacktech.cn | http://hacktech.cn/atom.xml |
 | R3start | http://r3start.net | http://r3start.net/index.php/feed |
 | Ruilin | http://rui0.cn | http://rui0.cn/feed |
 | Neurohazard | http://wp.blkstone.me | http://wp.blkstone.me/feed |
@@ -203,7 +198,7 @@
 | 李劼杰的博客 | http://www.lijiejie.com | http://www.lijiejie.com/feed |
 | 岚光 | https://0x0d.im | https://0x0d.im/feed |
 | todaro's blog | http://b.cp0.win | https://b.cp0.win/feed.xml |
-| Donot | http://www.cnblogs.com/donot | https://blog.donot.me/rss |
+| Donot | http://www.cnblogs.com/donot | https://feed.cnblogs.com/blog/u/643930/rss/ |
 | zhengjim | https://www.cnblogs.com/zhengjim | https://www.cnblogs.com/zhengjim/rss |
 | 空之回响’s Blog | https://blog.rainbutterfly.xyz | https://blog.rainbutterfly.xyz/feed |
 | 码中春秋's Blog | https://blog.taielab.com | https://blog.taielab.com/index.xml |
@@ -225,7 +220,6 @@
 | Wh0ale's Blog | https://wh0ale.github.io | https://wh0ale.github.io/atom.xml |
 | virusdefender’s blog (＾－＾)V | https://strcpy.me | https://strcpy.me/feed |
 | 安全志 | https://t0data.github.io | https://t0data.github.io/feed.xml |
-| berTrAM's Blog | https://www.bertramc.cn | https://www.bertramc.cn/feed |
 | CE安全网 | https://www.cesafe.com | https://www.cesafe.com/feed |
 | 勿忘初心 - Ch1ng's Blog | https://www.ch1ng.com/blog | https://www.ch1ng.com/blog/feed |
 | Black-Hole's Blog | https://www.bugs.cc | https://www.bugs.cc/index.xml |
@@ -238,7 +232,6 @@
 | dieyushi Blog | https://www.zzsec.org | https://www.zzsec.org/atom.xml |
 | 小草窝博客 | https://x.hacking8.com | https://x.hacking8.com/rss.php |
 | BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
-| boogle's blog | https://zhengbao.wang | https://zhengbao.wang/atom.xml |
 | y1ng | https://y1ng.org | https://y1ng.org/atom.xml |
 | ming | https://trex-tbag.github.io | https://trex-tbag.github.io/feed.xml |
 | Proteas的专栏 | https://blog.csdn.net/Proteas | http://blog.csdn.net/Proteas/rss/list |
@@ -278,7 +271,6 @@
 | TRY博客 | https://www.nctry.com | https://www.nctry.com/feed |
 | 0e0w | https://0e0w.com | https://0e0w.com/feed.xml |
 | Tr0y's Blog | https://www.tr0y.wang/atom.xml | https://www.tr0y.wang/atom.xml |
-| HhhM | https://redmango.top | https://www.redmango.top/rss/ |
 | 明天的乌云 | https://blog.xlab.app/atom.xml | https://blog.xlab.app/atom.xml |
 | darkless | https://darkless.cn/atom.xml | https://darkless.cn/atom.xml |
 | 小火箭 | https://yangxikun.com | https://yangxikun.com/rss.xml |
@@ -584,6 +576,18 @@
 | NISL实验室 | https://wechat2rss.xlab.app/feed/9c5931fa813fd1a38149e52d5809ce9b19a48ec4.xml |
 | FuzzWiki | https://wechat2rss.xlab.app/feed/1ec2c6e96e3acea1281658383ee23f212a4f22a4.xml |
 | DarkNavy | https://wechat2rss.xlab.app/feed/0d4ffa4a2127cb603c2da49daa678b0e780fd66b.xml |
+| 在酒吧喝牛奶的牛仔 | https://wechat2rss.xlab.app/feed/79406746c885004942b4fb232aff112a23579018.xml |
+| Desync InfoSec | https://wechat2rss.xlab.app/feed/9e1ec91d1a8cb22871f812bbe62fb7fe6c7b3e28.xml |
+| Security丨Art | https://wechat2rss.xlab.app/feed/bd7040862c701118e492f070f4abb58c52b8fb02.xml |
+| 拨开云雾 | https://wechat2rss.xlab.app/feed/b522811243a36e50628af702a4235b29ff0bdd5e.xml |
+| huasec | https://wechat2rss.xlab.app/feed/f193cadd8ff8418e027af5e22609abbe04a66687.xml |
+| 4ra1n | https://wechat2rss.xlab.app/feed/30d26f1caaba15501cc713e10995ccb55e6c3fad.xml |
+| 深潜之眼 | https://wechat2rss.xlab.app/feed/2bd44e5502a5ab5b55eb8a732449d8342a6defe9.xml |
+| 不忘初心px1624 | https://wechat2rss.xlab.app/feed/ccbd9e00f08cbd4c34f7f08060cfb5d4179843a5.xml |
+| 信安杂记 | https://wechat2rss.xlab.app/feed/68a725789c8e9fc3e3f05813880df328f1880fcb.xml |
+| 小陈的Life | https://wechat2rss.xlab.app/feed/7bc0fb4b036b6997552981cdd445bc48abff59bb.xml |
+| 悬镜安全 | https://wechat2rss.xlab.app/feed/59c134d2e41c3a0724d89cc6fa359bc1abedbc26.xml |
+| RedTeam | https://wechat2rss.xlab.app/feed/5ca1e75ce245541f45d8c3aa00b81ea11e3177c2.xml |
 
 ## Stargazers over time
 
