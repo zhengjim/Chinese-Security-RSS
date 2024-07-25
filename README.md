@@ -4,33 +4,28 @@
 
 ## 中文安全RSS
 
-增加小程序(开源)，将Chinese-Security-RSS的RSS集入便于查看。更新了UI，随缘更新。有需要的师傅可以扫码使用。
+新增小程序（开源），将Chinese-Security-RSS的RSS集成便于查看。UI随缘更新，有需要的师傅可以扫码使用。
 
-![](./img/wxamp.png)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/wxamp.png" alt="小程序二维码" width="300" />
+</div>
 
 主页截图：
 
-<img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/index.png" width="300" alt="" align=center />
+<div align="center">
+    <img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/index.png" width="300" alt="主页截图" />
+</div>
 
 ------
 
-2020-03-18更新：加入[2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)上有RSS地址的博客。如有问题，联系修改！
-
-2020-03-31更新：添加opml文件，便于批量导入。
-
-2021-02-01更新：删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中文、网络安全)的博客。
-
-2021-03-10更新：删除部分失效，部分2018年以前就不更新的博客。并新增符合条件(中文、网络安全)博客。
-
-2022-04-19更新：删除部分失效，解决导入失败问题，并加入[安全公众号](https://wechat2rss.xlab.app/posts/list)上的RSS。
-
-2022-04-20更新：删除不是安全类的公众号，感谢[@ttttmr](https://github.com/ttttmr)整理分享。
-
-2022-07-14更新：新增安全公众号、删除部分不为安全类的公众号。感谢[@ttttmr](https://wechat2rss.xlab.app/opml/sec.opml)整理分享。
-
-...
-
-2024-07-25更新：删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。感慨下，很多曾经乐于分享技术的安全师傅们都不更新博客，或忙于工作，或有了新方向。且行且珍惜~
+- **2020-03-18**: 加入[2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)上有RSS地址的博客。如有问题，联系修改！
+- **2020-03-31**: 添加OPML文件，便于批量导入。
+- **2021-02-01**: 删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中文、网络安全)的博客。
+- **2021-03-10**: 删除部分失效，部分2018年以前就不更新的博客。并新增符合条件(中文、网络安全)博客。
+- **2022-04-19**: 删除部分失效，解决导入失败问题，并加入[安全公众号](https://wechat2rss.xlab.app/posts/list)上的RSS。
+- **2022-04-20**: 删除不是安全类的公众号，感谢[@ttttmr](https://github.com/ttttmr)整理分享。
+- **2022-07-14**: 新增安全公众号，删除部分不为安全类的公众号。感谢[@ttttmr](https://wechat2rss.xlab.app/opml/sec.opml)整理分享。
+- **2024-07-25**: 删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。很多曾经乐于分享技术的安全师傅们都不更新博客，或忙于工作，或有了新方向。且行且珍惜~
 
 ## 安全资讯
 
