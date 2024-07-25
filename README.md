@@ -16,6 +16,8 @@
 
 新增小程序（开源），将Chinese-Security-RSS的RSS集成便于查看。UI随缘更新，有需要的师傅可以扫码使用。
 
+2024-07-25：修复网站证书过期，打不开问题，我本地代理，证书用了代理的，所以一直没报错，还以为没问题。。。
+
 <div align="center">
     <img src="https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/img/wxamp.png" alt="小程序二维码" width="300" />
 </div>
