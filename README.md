@@ -2,6 +2,8 @@
 
 记录了个人用到的一些获取国内安全资讯的RSS地址。均为中文，方便自己抓取关键字。还有部分大佬的博客。均不分前后。
 
+[安全OPML文件下载](https://raw.githubusercontent.com/zhengjim/Chinese-Security-RSS/master/Chinese-Security-RSS.opml)
+
 ## 中文安全RSS
 
 新增小程序（开源），将Chinese-Security-RSS的RSS集成便于查看。UI随缘更新，有需要的师傅可以扫码使用。
@@ -17,6 +19,8 @@
 </div>
 
 ------
+
+## 更新日志
 
 - **2020-03-18**: 加入[2018-2020青年安全圈-活跃技术博主/博客](https://github.com/404notf0und/Security-Data-Analysis-and-Visualization)上有RSS地址的博客。如有问题，联系修改！
 - **2020-03-31**: 添加OPML文件，便于批量导入。
