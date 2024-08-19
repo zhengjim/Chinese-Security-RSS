@@ -36,9 +36,9 @@
 - **2020-03-31**: 添加OPML文件，便于批量导入。
 - **2021-02-01**: 删除部分失效，加入[CyberSecurityRSS](https://github.com/zer0yu/CyberSecurityRSS)上相关(中文、网络安全)的博客。
 - **2021-03-10**: 删除部分失效，部分2018年以前就不更新的博客。并新增符合条件(中文、网络安全)博客。
-- **2022-04-19**: 删除部分失效，解决导入失败问题，并加入[安全公众号](https://wechat2rss.xlab.app/posts/list)上的RSS。
+- **2022-04-19**: 删除部分失效，解决导入失败问题，并加入[安全公众号](https://wechat2rss.xlab.app/opml/sec.opml)上的RSS。
 - **2022-04-20**: 删除不是安全类的公众号，感谢[@ttttmr](https://github.com/ttttmr)整理分享。
-- **2022-07-14**: 新增安全公众号，删除部分不为安全类的公众号。感谢[@ttttmr](https://wechat2rss.xlab.app/opml/sec.opml)整理分享。
+- **2022-07-14**: 新增安全公众号，删除部分不为安全类的公众号。
 - **2024-07-25**: 删除部分失效，并新增符合条件(中文、网络安全)博客及公众号。很多曾经乐于分享技术的安全师傅们都不更新博客，或忙于工作，或有了新方向。且行且珍惜~
 
 ## 安全资讯
@@ -54,7 +54,6 @@
 | 知道创宇 | http://blog.knownsec.com | http://blog.knownsec.com/feed |
 | 信息安全知识库 | https://vipread.com | https://vipread.com/feed |
 | 美团技术团队 | https://tech.meituan.com | https://tech.meituan.com/feed |
-| HackerNews | http://hackernews.cc | http://hackernews.cc/feed |
 | 华为安全通告 | https://www.huawei.com/cn/rss-feeds/psirt | https://www.huawei.com/cn/rss-feeds/psirt/rss |
 | 安全牛 | https://www.aqniu.com | https://www.aqniu.com/feed |
 | 腾讯科恩实验室官方博客 | http://keenlab.tencent.com | https://keenlab.tencent.com/zh/atom.xml |
@@ -84,7 +83,6 @@
 | zhchbin博客 | http://zhchbin.github.io | http://zhchbin.github.io/atom.xml |
 | Klaus | http://klaus.link/articles | http://klaus.link/atom.xml |
 | quininer | https://quininer.github.io | https://quininer.github.io/rss.xml |
-| TuuuNya(王松_striker) | https://www.hackersb.cn | https://www.hackersb.cn/atom.xml |
 | JISEC | https://www.jisec.com | https://www.jisec.com/feed |
 | Tr3jer_CongRong(从容) | https://www.thinkings.org | https://www.thinkings.org/feed.xml |
 | l3m0n | https://www.cnblogs.com/iamstudy | https://www.cnblogs.com/iamstudy/rss |
@@ -146,7 +144,6 @@
 | Vicen | https://www.cnblogs.com/P201521440001 | https://www.cnblogs.com/P201521440001/rss |
 | zifangsky的个人博客 | https://www.zifangsky.cn | https://www.zifangsky.cn/feed |
 | Sukka's Blog | https://blog.skk.moe | https://blog.skk.moe/atom.xml |
-| Solidot | https://www.solidot.org | https://www.solidot.org/index.rss |
 | Flanker Sky | https://blog.flanker017.me | http://blog.flanker017.me/feed/?lang=zh-cn |
 | Misty的小窝~ | http://misty.moe | http://misty.moe/feed |
 | 记事本 | http://rk700.github.io | http://rk700.github.io/feed.xml |
@@ -203,7 +200,6 @@
 | giantbranch's blog | https://www.giantbranch.cn | https://www.giantbranch.cn/atom.xml |
 | 杨龙 | https://www.yanglong.pro | https://www.yanglong.pro/feed |
 | dieyushi Blog | https://www.zzsec.org | https://www.zzsec.org/atom.xml |
-| 小草窝博客 | https://x.hacking8.com | https://x.hacking8.com/rss.php |
 | BaCde's Blog | https://bacde.me | https://bacde.me/atom.xml |
 | y1ng | https://y1ng.org | https://y1ng.org/atom.xml |
 | ming | https://trex-tbag.github.io | https://trex-tbag.github.io/feed.xml |
@@ -589,6 +585,9 @@
 | CodeAnalyzer Ultra | https://wechat2rss.xlab.app/feed/55250c252549088f7bcfa3527fe540bec5e2e16e.xml |
 | CodeWisdom | https://wechat2rss.xlab.app/feed/4e361ed9f2258098a35e02a6b738d6e53107f8bb.xml |
 | 逆熵重生 | https://wechat2rss.xlab.app/feed/95efa9e55cc1f8b14fb09b246bfacb6b9cd0c1e8.xml |
+| 鹰眼威胁情报中心 | https://wechat2rss.xlab.app/feed/6bdcd81fd3702868c913261790ec10ffb76df144.xml |
+| 榫卯江湖 | https://wechat2rss.xlab.app/feed/d1988b840deaf6a79edd32e83a1b152038f1b6a1.xml |
+| 连续创业的Janky | https://wechat2rss.xlab.app/feed/66f13ba7620a53ca279f679a8a956f43255fb579.xml |
 
 ## Stargazers over time
 
